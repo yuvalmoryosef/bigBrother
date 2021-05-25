@@ -1,2 +1,2 @@
 # bigBrother
-from Non 18
+From Nov 18
